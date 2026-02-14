@@ -96,6 +96,5 @@ I believe in continuous learning, structured thinking, and mastering fundamental
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahad-fs&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahad-fs&theme=tokyonight&hide_border=true"/>
 </p>
